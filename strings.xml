@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">profilelayout</string>
+
+    <string name="iguser">\@_nld___</string>
+    <string name="ngo_lam_doon">Ngo Lam Doon</string>
+    <string name="khanh_hoa_vietnamese">Khanh Hoa - Vietnamese</string>
+    <string name="loi">He want to use your achive,and I don't want this thing smelling like first</string>
+    <string name="he">Heading</string>
+    <string name="www_facebook_com_lamdoon1303">www.facebook.com/lamdoon1303</string>
+    <string name="facebook">Facebook</string>
+    <string name="lamdoon1303_gmail_com">lamdoon1303@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="_4">4</string>
+    <string name="email">Email</string>
+    <string name="followers">followers</string>
+    <string name="todo">TODO</string>
+
+    <string name="_07_0603_4684">07 0603 4684</string>
+    <string name="folling">folling</string>
+</resources>
